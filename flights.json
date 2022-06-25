@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "flight to canada",
+    "time": "1pm",
+    "price": 26000,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 2,
+    "title": "flight to nigeria",
+    "time": "4pm",
+    "price": 2700,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 3,
+    "title": "flight to Togo",
+    "time": "6pm",
+    "price": 500,
+    "date": "26-06-2017"
+  },
+  {
+    "id": 4,
+    "title": "flight to egypt",
+    "time": "10pm",
+    "price": 10000,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 5,
+    "title": "flight to spain",
+    "time": "10pm",
+    "price": 1300,
+    "date": "29-06-2022"
+  },
+  {
+    "id": 8,
+    "title": "flight to spain",
+    "time": "10pm",
+    "price": 1300,
+    "date": "29-06-2022"
+  }
+]
